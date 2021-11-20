@@ -15,34 +15,6 @@
 
 - macOS Big Sur
 
-## Changelog
-
-### 3-23-2021
-
-#### Update
-
-- `OpenCore` v0.6.7
-- `AppleALC` v1.5.8
-- `CPUFriend` v1.2.4
-- `HibernationFixup` v1.3.9
-- `Lilu` v1.5.1
-- `VirtualSMC` v1.2.1
-- `VoodooI2C` v2.6.5
-- `VoodooPS2Controller` v2.2.2
-- `WhateverGreen` v1.4.8
-
-#### Add
-
-- `AirportItlwm` v1.3.0
-- OC resources(modern)
-
-#### Change
-
-- Change `alcid=11` boot-args(fix line-in mic)
-
-#### Remove
-
-- Remove `CodecComander`
 
 ## What is Working?
 
