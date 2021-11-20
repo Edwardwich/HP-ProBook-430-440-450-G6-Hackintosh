@@ -11,6 +11,8 @@
 
 ## MacOS Versions Supported:
 
+- macOS Monterey 12.0.1 (21A559)
+
 - macOS Big Sur
 
 ## Changelog
